@@ -1,0 +1,36 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: lightgray;
+}
+
+.contenedor{
+    display: flex;
+    justify-content: center;
+}
+
+.img{
+    margin: 20px;
+    width: 500px;
+    height: 300px;
+    background-image: url('Portada.png');
+    background-size: 500px 300px;
+    background-repeat: no-repeat;
+}
+
+h1{
+    text-align: center;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+h2{
+    text-align: center;
+    color: blueviolet;
+    font-size: 25px;
+}
+
+p{
+    font-size: 18px;
+    text-align: center;
+}
